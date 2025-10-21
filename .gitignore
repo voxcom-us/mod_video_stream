@@ -1,0 +1,11 @@
+cmake-build-debug/
+.idea/
+.vscode/
+build/
+_packages
+notes.txt
+docker/
+.venv
+tmp/
+recordings/
+.DS_Store
